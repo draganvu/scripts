@@ -2,7 +2,7 @@
 #
 # Author: Dragan Vujović <dvujovic@protonmail.ch>
 # License: GNU GPL v3+
-# URL: https://github.com/draganvu/dotfiles
+# URL: https://github.com/draganvu/scripts
 #
 # Commentary:
 # A script to install software after Ubuntu installation

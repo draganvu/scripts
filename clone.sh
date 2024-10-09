@@ -2,7 +2,7 @@
 #
 # Author: Dragan Vujović <dvujovic@protonmail.ch>
 # License: GNU GPL v3+
-# URL: https://github.com/draganvu/dotfiles
+# URL: https://github.com/draganvu/scripts
 #
 # Commentary:
 # Script for setting up my github projects
