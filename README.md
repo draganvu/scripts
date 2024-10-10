@@ -9,7 +9,7 @@ git clone https://github.com/draganvu/scripts
 ```
 To run bash script:
 ```bash
-./<filename>.sh
+./{filename}.sh
 ```
 
 ## License
